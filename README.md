@@ -1,2 +1,4 @@
 # hello-world
-Just that
+
+Hi there!
+I'm trying to learn how to use this feature!
